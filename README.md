@@ -1,0 +1,2 @@
+# opensearch-operator
+opensearch-operator
